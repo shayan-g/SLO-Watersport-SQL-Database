@@ -18,6 +18,10 @@ To build a robust SQL database and a set of targeted queries that enable stakeho
 7. What is the average salary paid to our managers?
 8. What is the average base salary of our salespeople, excluding any commission?
 9. How much total purchase value is processed through each payment method, and how do they compare when ordered from highest to lowest?
+10. Which vehicles have never been ordered?
+11. Which customers have not placed any purchase orders?
+12. Which water-vehicle category generates the highest total revenue?
+13. Which transaction date generated the highest total revenue?
 
 ## Running the Project
 1. Install MySQL Workbench (or another MySQL client).  
